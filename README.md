@@ -28,9 +28,9 @@ The data set contains historical Brent oil prices. It includes daily prices from
 - **Date**: Represents the date of the recorded Brent oil price. Each entry is formatted as ‘day-month-year’ (e.g., 20-May-87). The dataset covers daily prices from May 20, 1987, to September 30, 2022.
 - **Price**: This column represents the price of Brent oil on the corresponding date. The price is recorded in USD per barrel.
 
-## Task 1
+## Tasks Completed
 
-Task 1 focuses on defining the data analysis workflow and understanding the model and data. This involves planning the analysis steps needed to achieve the project’s objective and ensuring a clear understanding of the key concepts related to the project.
+Tasks focuse on defining the data analysis workflow and understanding the model and data. This involves planning the analysis steps needed to achieve the project’s objective and ensuring a clear understanding of the key concepts related to the project.
 
 ### Defining the Data Analysis Workflow
 
@@ -83,6 +83,8 @@ Task 1 focuses on defining the data analysis workflow and understanding the mode
 
 5. **Communication Channels**
    - **Stakeholder Communication**: Determine the best formats (e.g., reports, dashboards, presentations) and channels (e.g., meetings, emails) for communicating results to stakeholders.
+<<<<<<< task-2
+=======
 
 ## Task 2
 
@@ -240,7 +242,3 @@ Build a Dashboard Application using Flask (backend) and React (frontend) to visu
    - Serve data from the analysis results, making it accessible for the React frontend.
    - Handle requests for different datasets, model outputs, and performance metrics.
    - Integrate data sources for real-time updates (optional, if necessary).
-
-2. **Set up Flask**:
-   ```bash
-   pip install flask flask-cors pandas
